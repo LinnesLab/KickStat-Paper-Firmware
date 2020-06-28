@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map for MiniStatAnalyst
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MiniStatAnalyst	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+calcDerivative	KEYWORD2
+calcBaseline	KEYWORD2
+getPeakCurrent	KEYWORD2
+calcProbeDensity	KEYWORD2
+calcCharge	KEYWORD2
+calcArea	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+AVOGADRO	LITERAL1
+FARADAY	LITERAL1
+CHARGE_TRANSFER_CONSTANT	LITERAL1
+
+REDUCTION	LITERAL1
+OXIDATION	LITERAL1
+
+NO_ERROR	LITERAL1
+NO_REDOX_TYPE	LITERAL1
+NO_BASELINE_SELECTED	LITERAL1
+NO_BASELINE_FOUND	LITERAL1
+
+MB_APTAMER_BASE	LITERAL1
+FeCN_OX_BASE	LITERAL1
+FeCN_RED_BASE	LITERAL1
+MB_APTAMER_PEAK	LITERAL1
+FeCN_OX_PEAK	LITERAL1
+FeCN_RED_PEAK	LITERAL1
+
+

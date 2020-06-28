@@ -15,6 +15,8 @@ of the KickStat board.
 J-Link: https://www.adafruit.com/product/1369
 Bootloading instructions: https://www.instructables.com/id/ATSAMD21g18-Bootloader-With-J-link-Debugger/
 
+Bootloading instructions are also located in Firmware/references
+
 
 Note: KickStat was originally named MiniStat hence the change in file names. We had to
 change the name after we found another publication with the name MiniStat, though

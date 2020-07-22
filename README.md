@@ -17,7 +17,7 @@ Bootloading instructions: https://www.instructables.com/id/ATSAMD21g18-Bootloade
 
 Bootloading instructions are also located in Firmware/references
 
-Assembly Instructions are located: KickStat-Paper-Firmware/KickStat/Hardware/Button-Cell/RevB/Assembly-Instructions
+Assembly Instructions are located here: KickStat-Paper-Firmware/KickStat/Hardware/Button-Cell/RevB/Assembly-Instructions
 
 
 Note: KickStat was originally named MiniStat hence the change in file names. We had to

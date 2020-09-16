@@ -1,0 +1,1 @@
+The contents have the folder have moved to [KickStat/Hardware/Button-Cell/RevB/Assembly-Instructions/Bootloading-SAMD21.pdf](https://github.com/LinnesLab/KickStat-Paper-Firmware/blob/master/KickStat/Hardware/Button-Cell/RevB/Assembly-Instructions/Drivers-SparkFun-SAMD21.pdf)

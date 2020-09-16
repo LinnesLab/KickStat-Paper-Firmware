@@ -4,8 +4,8 @@ Firmware used to collect data for first KickStat publication "KickStat: A Coin-S
 **Note:** KickStat was originally named MiniStat hence a few files still bearing the root name "MiniStat." We had to change the name after we found another publication with the name MiniStat, though earlier versions of our design (which was called MiniStat) were published on GitHub 3 years before the publication of the other manuscript in question. We apologize for the confusion.
 
 **Note:** KickStat uses the [SparkFun SAMD21 Dev Breakout](https://www.sparkfun.com/products/13672) board definition. Instructions for setting up your board as well as the Arduino IDE are below.
-<br/>
-<br/>
+<p align="center"> <img src="https://github.com/LinnesLab/KickStat-Paper-Firmware/blob/master/KickStat/Hardware/Button-Cell/RevB/images/IMG_2810.JPG" width="440"><p/>
+
 ## Hardware Setup Instructions
 ### Ordering Boards from PCBWay
 1. PCBWay parameters are located in attached images in the following location:  
